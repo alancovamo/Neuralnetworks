@@ -1,2 +1,3 @@
 # neuralnetworks
-Redes neuronales para distintos problemas de clasificación, ajuste y predicción.
+Examples and applications for classification, adjust, prediction and inference with multiple datasets.
+
